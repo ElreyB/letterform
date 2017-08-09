@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
 #letter {
   display: none;
   box-shadow: 10px 10px 5px #950F3A;
@@ -16,4 +18,9 @@ body {
 
 .paragraph {
   text-indent: 50px;
+}
+
+p {
+  font-family: 'Dancing Script', cursive;
+  font-size: 18px;
 }
